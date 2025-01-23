@@ -1,0 +1,4 @@
+geopandas>=0.14.0
+folium>=0.15.0
+matplotlib>=3.8.0
+fiona>=1.9.4
