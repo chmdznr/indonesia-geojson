@@ -1,0 +1,11 @@
+*.geojson
+*.shp
+*.CPG
+*.prj
+*.dbf
+*.shx
+*.sbn
+*.sbx
+*.cpg
+*.shp.xml
+*.html
